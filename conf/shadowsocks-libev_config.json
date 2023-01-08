@@ -10,5 +10,5 @@
     "no_delay":true,
     "plugin": "v2",
     "plugin_opts":"server;path=${V2_Path}",
-    "remarks":"Aditya's VPN"
+    "remarks":"AbhiCracker's VPN"
 }
